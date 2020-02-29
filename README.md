@@ -2,6 +2,9 @@
 
 Original Design by [Piyush Kumar](https://dribbble.com/piyushsingh22) Link: [Dribble](https://dribbble.com/shots/9933802-Plant-Care-App-Exploration)
 
+
+![alt text](https://github.com/jhonattanS/flutter_plants/blob/master/demo/Plantas_Final.gif?raw=true)
+
 A new Flutter project.
 
 ## Getting Started
