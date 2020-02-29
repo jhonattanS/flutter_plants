@@ -1,4 +1,6 @@
-# plants
+# Plant Care App Exploration - Flutter UI
+
+Original Design by [Piyush Kumar](https://dribbble.com/piyushsingh22) Link: [Dribble](https://dribbble.com/shots/9933802-Plant-Care-App-Exploration)
 
 A new Flutter project.
 
