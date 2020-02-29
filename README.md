@@ -7,7 +7,7 @@ Original Design by [Piyush Kumar](https://dribbble.com/piyushsingh22) Link: [Dri
 
 | Original        | Flutter| 
 | ------------- |:-------------:| 
-| ![Original](https://github.com/jhonattanS/flutter_plants/blob/master/demo/Plantas_Layout.png?raw=true)   | ![Flutter Result](https://github.com/jhonattanS/flutter_plants/blob/master/demo/Plantas_Final.gif?raw=true) | 
+| ![Original](https://github.com/jhonattanS/flutter_plants/blob/master/demo/Plantas_Layout.png?raw=true | width=400)   | ![Flutter Result](https://github.com/jhonattanS/flutter_plants/blob/master/demo/Plantas_Final.gif?raw=true | width=400) | 
 
 A new Flutter project.
 
